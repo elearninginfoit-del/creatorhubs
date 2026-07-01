@@ -1,0 +1,7 @@
+name = "creatorhubs"
+main = "main.py"
+compatibility_date = "2026-07-01"
+compatibility_flags = ["python_workers"]
+
+[assets]
+directory = "./app"
